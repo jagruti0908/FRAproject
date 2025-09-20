@@ -1,0 +1,6 @@
+# Add to .gitignore
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
